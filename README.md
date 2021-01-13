@@ -1,6 +1,6 @@
 # DatatypesC#
 
-## Part of the first assignment and first contact with c#
+## Part of the first assignment and my first contact with c#
 
 ### This exercise have the following objective: 
 #### Declare several variables by selecting for each one of them the most
